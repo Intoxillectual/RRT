@@ -20,4 +20,4 @@ The output requires some inputs:
 
 Final answer will either be when the goal is reached or RRT iterations will be completed and co-ordinates through which it traversed will be displayed.
 
-<img src="output.png" alt="Result" width="200">
+<img src= "output" alt="Result" width="700">
